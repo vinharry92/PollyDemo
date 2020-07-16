@@ -1,0 +1,17 @@
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/demo.exe
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/demo.pdb
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.IO.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.Net.Http.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.Runtime.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/obj/Debug/demo.csprojAssemblyReference.cache
+/Users/vinodkumarmani/Documents/Polly/demo/demo/obj/Debug/demo.csproj.CoreCompileInputs.cache
+/Users/vinodkumarmani/Documents/Polly/demo/demo/obj/Debug/demo.csproj.CopyComplete
+/Users/vinodkumarmani/Documents/Polly/demo/demo/obj/Debug/demo.exe
+/Users/vinodkumarmani/Documents/Polly/demo/demo/obj/Debug/demo.pdb
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/Polly.dll
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/Polly.pdb
+/Users/vinodkumarmani/Documents/Polly/demo/demo/bin/Debug/Polly.xml
